@@ -1,7 +1,7 @@
 # Database-wk-8
-'ll create a comprehensive Library Management System database schema for Question 1.
+I'll create a comprehensive Library Management System database schema for Question 1.
 
-his database schema includes:
+This database schema includes:
 
 Entities: Authors, Publishers, Books, Members, Loans, Reservations, and Fines
 
